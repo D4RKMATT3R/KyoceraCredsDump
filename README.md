@@ -1,6 +1,6 @@
 # KyoceraCredsDump - CVE-2022-1026
 - Based on the original exploit from Aaron Herndon, @ac3lives (Rapid7) - https://www.rapid7.com/blog/post/2022/03/29/cve-2022-1026-kyocera-net-view-address-book-exposure/
-- credits to Aaron Herndon / https://twitter.com/ac3lives
+- credits to Aaron Herndon / https://twitter.com/ac3lives / https://github.com/ac3lives/kyocera-cve-2022-1026
 - Thanks claude for creating the refined PoC for me ;)
 
 - Since I still encounter kyocera printers vulnerable to this exploit everyday, I wanted to have a more refined PoC, that allows for scanning of network ranges or multiple hosts and also prettifies the acquired credentials for quick summary.
